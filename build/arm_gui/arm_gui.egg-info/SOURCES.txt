@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/arm_gui/arm_gui.egg-info/PKG-INFO
+../../build/arm_gui/arm_gui.egg-info/SOURCES.txt
+../../build/arm_gui/arm_gui.egg-info/dependency_links.txt
+../../build/arm_gui/arm_gui.egg-info/entry_points.txt
+../../build/arm_gui/arm_gui.egg-info/requires.txt
+../../build/arm_gui/arm_gui.egg-info/top_level.txt
+../../build/arm_gui/arm_gui.egg-info/zip-safe
+arm_gui/__init__.py
+arm_gui/gui_run.py
+resource/arm_gui
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

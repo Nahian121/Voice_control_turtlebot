@@ -1,0 +1,5 @@
+  File "/home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui/gui_run.py", line 48
+    tk.Label(frame, text=labels[i],width=14,anchor="e",font=("Helvetica",12),width=15,anchor='w').pack(side=tk.LEFT, padx=5)
+                                                                             ^^^^^^^^
+SyntaxError: keyword argument repeated: width
+

@@ -1,0 +1,4 @@
+[console_scripts]
+controller = vo_co_bot.controller:main
+speaker = vo_co_bot.speaker:main
+

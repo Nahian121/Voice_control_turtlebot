@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/arm_gui/arm_gui.egg-info
+writing ../../build/arm_gui/arm_gui.egg-info/PKG-INFO
+writing dependency_links to ../../build/arm_gui/arm_gui.egg-info/dependency_links.txt
+writing entry points to ../../build/arm_gui/arm_gui.egg-info/entry_points.txt
+writing requirements to ../../build/arm_gui/arm_gui.egg-info/requires.txt
+writing top-level names to ../../build/arm_gui/arm_gui.egg-info/top_level.txt
+writing manifest file '../../build/arm_gui/arm_gui.egg-info/SOURCES.txt'
+reading manifest file '../../build/arm_gui/arm_gui.egg-info/SOURCES.txt'
+writing manifest file '../../build/arm_gui/arm_gui.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nahian/Desktop/tb_ws/build/arm_gui/build
+creating /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib
+creating /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui
+copying arm_gui/sub.py -> /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui
+copying arm_gui/gui_run.py -> /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui
+copying arm_gui/__init__.py -> /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui
+running install
+running install_lib
+creating /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui
+copying /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui/sub.py -> /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui
+copying /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui/gui_run.py -> /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui
+copying /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui/__init__.py -> /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui
+byte-compiling /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui/sub.py to sub.cpython-310.pyc
+byte-compiling /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui/gui_run.py to gui_run.cpython-310.pyc
+byte-compiling /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/nahian/Desktop/tb_ws/install/arm_gui/share/ament_index
+creating /home/nahian/Desktop/tb_ws/install/arm_gui/share/ament_index/resource_index
+creating /home/nahian/Desktop/tb_ws/install/arm_gui/share/ament_index/resource_index/packages
+copying resource/arm_gui -> /home/nahian/Desktop/tb_ws/install/arm_gui/share/ament_index/resource_index/packages
+copying package.xml -> /home/nahian/Desktop/tb_ws/install/arm_gui/share/arm_gui
+running install_egg_info
+Copying ../../build/arm_gui/arm_gui.egg-info to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gui_run script to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/arm_gui
+Installing sub script to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/arm_gui
+writing list of installed files to '/home/nahian/Desktop/tb_ws/build/arm_gui/install.log'

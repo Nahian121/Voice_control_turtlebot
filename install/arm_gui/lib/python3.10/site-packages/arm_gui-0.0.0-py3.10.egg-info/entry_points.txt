@@ -1,0 +1,4 @@
+[console_scripts]
+gui_run = arm_gui.gui_run:main
+sub = arm_gui.sub:main
+

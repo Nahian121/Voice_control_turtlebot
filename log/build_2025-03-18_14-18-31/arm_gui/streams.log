@@ -1,0 +1,25 @@
+[0.505s] Invoking command in '/home/nahian/Desktop/tb_ws/src/arm_gui': PYTHONPATH=/home/nahian/Desktop/tb_ws/build/arm_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/arm_gui build --build-base /home/nahian/Desktop/tb_ws/build/arm_gui/build install --record /home/nahian/Desktop/tb_ws/build/arm_gui/install.log --single-version-externally-managed install_data
+[0.619s] running egg_info
+[0.619s] writing ../../build/arm_gui/arm_gui.egg-info/PKG-INFO
+[0.619s] writing dependency_links to ../../build/arm_gui/arm_gui.egg-info/dependency_links.txt
+[0.619s] writing entry points to ../../build/arm_gui/arm_gui.egg-info/entry_points.txt
+[0.619s] writing requirements to ../../build/arm_gui/arm_gui.egg-info/requires.txt
+[0.619s] writing top-level names to ../../build/arm_gui/arm_gui.egg-info/top_level.txt
+[0.620s] reading manifest file '../../build/arm_gui/arm_gui.egg-info/SOURCES.txt'
+[0.621s] writing manifest file '../../build/arm_gui/arm_gui.egg-info/SOURCES.txt'
+[0.621s] running build
+[0.621s] running build_py
+[0.621s] copying arm_gui/gui_run.py -> /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui
+[0.621s] running install
+[0.621s] running install_lib
+[0.622s] copying /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui/gui_run.py -> /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui
+[0.622s] byte-compiling /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui/gui_run.py to gui_run.cpython-310.pyc
+[0.623s] running install_data
+[0.623s] running install_egg_info
+[0.624s] removing '/home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui-0.0.0-py3.10.egg-info' (and everything under it)
+[0.624s] Copying ../../build/arm_gui/arm_gui.egg-info to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui-0.0.0-py3.10.egg-info
+[0.625s] running install_scripts
+[0.636s] Installing gui_run script to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/arm_gui
+[0.636s] Installing sub script to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/arm_gui
+[0.636s] writing list of installed files to '/home/nahian/Desktop/tb_ws/build/arm_gui/install.log'
+[0.650s] Invoked command in '/home/nahian/Desktop/tb_ws/src/arm_gui' returned '0': PYTHONPATH=/home/nahian/Desktop/tb_ws/build/arm_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/arm_gui build --build-base /home/nahian/Desktop/tb_ws/build/arm_gui/build install --record /home/nahian/Desktop/tb_ws/build/arm_gui/install.log --single-version-externally-managed install_data

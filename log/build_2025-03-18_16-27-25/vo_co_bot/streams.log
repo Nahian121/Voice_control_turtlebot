@@ -1,0 +1,22 @@
+[0.505s] Invoking command in '/home/nahian/Desktop/tb_ws/src/vo_co_bot': PYTHONPATH=/home/nahian/Desktop/tb_ws/build/vo_co_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nahian/Desktop/tb_ws/install/vo_co_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vo_co_bot build --build-base /home/nahian/Desktop/tb_ws/build/vo_co_bot/build install --record /home/nahian/Desktop/tb_ws/build/vo_co_bot/install.log --single-version-externally-managed install_data
+[0.617s] running egg_info
+[0.617s] writing ../../build/vo_co_bot/vo_co_bot.egg-info/PKG-INFO
+[0.617s] writing dependency_links to ../../build/vo_co_bot/vo_co_bot.egg-info/dependency_links.txt
+[0.617s] writing entry points to ../../build/vo_co_bot/vo_co_bot.egg-info/entry_points.txt
+[0.617s] writing requirements to ../../build/vo_co_bot/vo_co_bot.egg-info/requires.txt
+[0.618s] writing top-level names to ../../build/vo_co_bot/vo_co_bot.egg-info/top_level.txt
+[0.618s] reading manifest file '../../build/vo_co_bot/vo_co_bot.egg-info/SOURCES.txt'
+[0.619s] writing manifest file '../../build/vo_co_bot/vo_co_bot.egg-info/SOURCES.txt'
+[0.619s] running build
+[0.619s] running build_py
+[0.619s] running install
+[0.619s] running install_lib
+[0.620s] running install_data
+[0.620s] running install_egg_info
+[0.620s] removing '/home/nahian/Desktop/tb_ws/install/vo_co_bot/lib/python3.10/site-packages/vo_co_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.621s] Copying ../../build/vo_co_bot/vo_co_bot.egg-info to /home/nahian/Desktop/tb_ws/install/vo_co_bot/lib/python3.10/site-packages/vo_co_bot-0.0.0-py3.10.egg-info
+[0.621s] running install_scripts
+[0.631s] Installing controller script to /home/nahian/Desktop/tb_ws/install/vo_co_bot/lib/vo_co_bot
+[0.631s] Installing speaker script to /home/nahian/Desktop/tb_ws/install/vo_co_bot/lib/vo_co_bot
+[0.631s] writing list of installed files to '/home/nahian/Desktop/tb_ws/build/vo_co_bot/install.log'
+[0.643s] Invoked command in '/home/nahian/Desktop/tb_ws/src/vo_co_bot' returned '0': PYTHONPATH=/home/nahian/Desktop/tb_ws/build/vo_co_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nahian/Desktop/tb_ws/install/vo_co_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vo_co_bot build --build-base /home/nahian/Desktop/tb_ws/build/vo_co_bot/build install --record /home/nahian/Desktop/tb_ws/build/vo_co_bot/install.log --single-version-externally-managed install_data

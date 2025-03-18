@@ -1,0 +1,5 @@
+  File "/home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui/gui_run.py", line 56
+    tk.Button(frame, text="▶",width=2 command=lambda idx=i: self.move_slider(idx, 1)).pack(side=tk.LEFT, padx=2)
+                                      ^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

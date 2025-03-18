@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/arm_gui/arm_gui.egg-info/PKG-INFO
+writing dependency_links to ../../build/arm_gui/arm_gui.egg-info/dependency_links.txt
+writing entry points to ../../build/arm_gui/arm_gui.egg-info/entry_points.txt
+writing requirements to ../../build/arm_gui/arm_gui.egg-info/requires.txt
+writing top-level names to ../../build/arm_gui/arm_gui.egg-info/top_level.txt
+reading manifest file '../../build/arm_gui/arm_gui.egg-info/SOURCES.txt'
+writing manifest file '../../build/arm_gui/arm_gui.egg-info/SOURCES.txt'
+running build
+running build_py
+copying arm_gui/gui_run.py -> /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui
+running install
+running install_lib
+copying /home/nahian/Desktop/tb_ws/build/arm_gui/build/lib/arm_gui/gui_run.py -> /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui
+byte-compiling /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui/gui_run.py to gui_run.cpython-310.pyc
+  File "/home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui/gui_run.py", line 48
+    tk.Label(frame, text=labels[i],width=14,anchor="e",font=("Helvetica",12),width=15,anchor='w').pack(side=tk.LEFT, padx=5)
+                                                                             ^^^^^^^^
+SyntaxError: keyword argument repeated: width
+
+running install_data
+running install_egg_info
+removing '/home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/arm_gui/arm_gui.egg-info to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/python3.10/site-packages/arm_gui-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gui_run script to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/arm_gui
+Installing sub script to /home/nahian/Desktop/tb_ws/install/arm_gui/lib/arm_gui
+writing list of installed files to '/home/nahian/Desktop/tb_ws/build/arm_gui/install.log'
